@@ -1,0 +1,39 @@
+---
+layout: project-post
+title: Projects
+permalink: /projects/
+---
+
+<h2>Work Projects</h2>
+  <div class="posts">
+    {% for post in site.categories['commercial'] %}
+      <div class="post">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="post-title">{{ post.title }}</h3></a>
+        <p class="post-summary">
+          {% if post.summary %}
+            {{ post.summary }}
+          {% else %}
+            {{ post.excerpt }}
+          {% endif %}
+        </p>
+      </div>
+    {% endfor %}
+  </div>
+
+<hr>
+  
+<h2>Personal Projects</h2>
+  <div class="posts">
+    {% for post in site.categories['personal'] %}
+      <div class="post">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="post-title">{{ post.title }}</h3></a>
+        <p class="post-summary">
+          {% if post.summary %}
+            {{ post.summary }}
+          {% else %}
+            {{ post.excerpt }}
+          {% endif %}
+        </p>
+      </div>
+    {% endfor %}
+  </div>

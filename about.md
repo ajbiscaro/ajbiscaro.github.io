@@ -1,19 +1,21 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 ---
+Hello! My name is Ardel John Biscaro and I live in Baguio City, Philippines. I work currently for National Economic and Development Authority-CAR by day. And on my spare times, I do freelance web development projects,  play NBA2k game,  watch sports games especially basketball and boxing, read articles on web development,  current events and interesting historical events. 
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+I am happily married and have a child. I am a Seventh-day Adventist Christian and graduated from Northern Luzon Adventist College with a degree on Information and Computer Science.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+I built web application using PHP with CodeIgniter framework, MySQL , Ajax and JQuery.  And used Wordpress, HTML5, CSS, JQuery in the development of websites. I passionately code websites and web apps to be simple, clean and conform to standards.  I am an advocate of minimalist website design.
 
-Thanks to the following:
+Links:
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+* [Github](https://github.com/ajbiscaro)
+* [Twitter](https://twitter.com/ajbiscaro)
+* [Behance](https://www.behance.net/ajbiscaro)
+* [LinkedIn](ph.linkedin.com/in/ajbiscaro)
+
+#### ABOUT THIS WEBSITE
+
+This is a responsive static website built with Jekyll using [Pixyll theme](https://github.com/johnotander/pixyll).
